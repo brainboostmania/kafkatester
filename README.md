@@ -1,4 +1,8 @@
-to run 
-docker compose up
+### Installation and Running
 
-access the app on the browser using localhost
+1. Run 
+   ```sh
+   docker compose up
+   ```
+
+2. Access http://localhost on the browser
