@@ -1,0 +1,7 @@
+confluent-kafka
+dependency-injector
+flask
+flask_cors
+PyYAML
+requests
+validators
